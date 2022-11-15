@@ -1,3 +1,4 @@
 [submodule "sub"]
 	path = sub
 	url = git@github.com:YoshikazuArimitsu/SubMod_sub.git
+	branch = A
